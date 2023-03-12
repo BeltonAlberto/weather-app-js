@@ -122,3 +122,13 @@ footer {
     color: #FFF;
     font-size: 13px;
 }
+
+a {
+    text-decoration: none;
+    color:#aca2a2;
+}
+
+a:hover {
+    text-decoration: underline;
+    
+}
