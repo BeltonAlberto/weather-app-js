@@ -1,2 +1,2 @@
 # weather-app-js
-This mini app is simple app that collects the current whether status by searching a location
+This mini app is a simple app that collects the current whether status by city location
